@@ -1,4 +1,3 @@
-cat > answers.md << 'EOF'
 
 \# CareerByteCode DevOps Internship - Week 1 Assessment Answers
 
@@ -1325,56 +1324,4 @@ This completes the practical part of the assessment.
 \---
 
 
-
-\## Q21. Self-Speech Video Script
-
-
-
-Hello everyone,
-
-
-
-My name is Rizwan Siddiqui.
-
-
-
-I am currently part of the CareerByteCode DevOps Internship program. I already have hands-on experience in IT and cloud-related work, but I joined this internship with the intention of strengthening my DevOps foundation in a more structured and practical way.
-
-
-
-In the first week, the focus was mainly on Linux, Git, GitHub, and Bash scripting. These topics are very important in real DevOps work because most automation, server management, deployment, and troubleshooting activities depend on these fundamentals.
-
-
-
-During this week, I practiced Linux commands such as `ls`, `pwd`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `history`, `clear`, `find`, `chmod`, `cat`, `echo`, and `grep`. These commands helped me revise how files, directories, permissions, and search operations work in Linux.
-
-
-
-I also practiced Git and GitHub commands. I worked on initializing a repository, adding files, committing changes, checking status, viewing commit history, and preparing the project structure for GitHub upload. This helped me improve my habit of maintaining clean commits and a proper repository structure.
-
-
-
-The topic I enjoyed the most was Bash scripting. I liked it because scripting helps automate repetitive tasks. I created scripts to accept user details, check whether a number is positive, negative, or zero, and print numbers from 1 to 20 using a loop.
-
-
-
-The topic that required more attention was Git workflow, especially understanding how to maintain proper commits and structure the repository cleanly. I feel this is important because in real projects, Git is not only about pushing code; it is also about maintaining proper history, collaboration, and readability.
-
-
-
-As an additional concept, I revised tools like Terraform and Ansible from a DevOps perspective. Terraform is useful for Infrastructure as Code, and Ansible is useful for automation and configuration management. Both tools are widely used in organizations to reduce manual work and maintain consistency.
-
-
-
-My expectation from the upcoming weeks is to gain more hands-on practice and connect these fundamentals with real DevOps workflows such as automation, CI/CD, cloud infrastructure, monitoring, and deployment.
-
-
-
-My goal is to keep improving step by step and become more confident in applying DevOps concepts in real-world projects.
-
-
-
-Thank you.
-
-EOF
 
